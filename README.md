@@ -1,1 +1,3 @@
 # final_project_21
+
+I plan to explore [meteorite landings](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh/data)! Primarily, I'm interested in looking for any correlations between type/size of meteorite (I will further classify the type given the classes included in the dataset) and when and where they land to potentially highlight regions of dense asteroid debris fields. Comparing size distributions to meteorite type and visualizing find vs fall locations could also be very insightful.
